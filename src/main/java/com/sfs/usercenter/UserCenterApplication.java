@@ -10,6 +10,7 @@ import org.springframework.context.annotation.ComponentScan;
 //@ComponentScan(basePackages ={"com.sfs.usercenter.Mapper","com.sfs.usercenter.config"})
 public class UserCenterApplication {
 
+    //这是第一次使用分支
     public static void main(String[] args) {
         SpringApplication.run(UserCenterApplication.class, args);
     }
